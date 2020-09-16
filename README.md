@@ -1,1 +1,1 @@
-# subrepo
+This is a submodule.
